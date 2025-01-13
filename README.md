@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/muhamma12810529" target="blank"><img src="https://img.shields.io/twitter/follow/muhamma12810529?logo=twitter&style=for-the-badge" alt="muhamma12810529" /></a> </p>
 
-- 🔭 I’m currently working on **Security Module**
+- 🔭 I’m currently working on **Oracle APEX**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Patient Portal**
 
