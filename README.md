@@ -24,7 +24,7 @@
 
   <!-- Oracle APEX -->
   <a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://worldvectorlogo.com/logo/oracle-corporation-logo" alt="Oracle APEX" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/oracle-corporation-logo.svg" alt="Oracle APEX" width="40" height="40"/>
   </a>
 
   <!-- Oracle Database -->
