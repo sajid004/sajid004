@@ -8,13 +8,9 @@
 
 - 🔭 I’m currently working on **Oracle APEX**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m an Oracle APEX Developer with over 5 years of experience in designing and developing data-driven web applications. I have worked extensively on Hospital Management Systems and integrated mobile app solutions to enhance healthcare operations and patient engagement.
 
-- 👯 I’m looking to collaborate on **Patient Portal**
-
-- 🤝 I’m looking for help with **Covid Portal**
-
-- 💬 Ask me about **Oracle Apex**
+- 💬 Ask me about **Oracle APEX**
 
 - 📫 How to reach me **hafizsajid.645@gmail.com**
 
