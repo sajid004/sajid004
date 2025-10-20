@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhamma12810529" target="blank"><img src="https://img.shields.io/twitter/follow/muhamma12810529?logo=twitter&style=for-the-badge" alt="muhamma12810529" /></a> </p>
 
-- 🔭 I’m currently working on **Oracle APEX**
+- 🔭 I’m currently working as a **Senior Oracle APEX Developer**
 
 - 🌱 I’m an Oracle APEX Developer with over 5 years of experience in designing and developing data-driven web applications. I have worked extensively on Hospital Management Systems and integrated mobile app solutions to enhance healthcare operations and patient engagement.
 
@@ -24,7 +24,7 @@
 
   <!-- Oracle APEX -->
   <a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/O/oracle-apex-logo-DC865E32D5-seeklogo.com.png" alt="Oracle APEX" width="40" height="40"/>
+    <img src="https://worldvectorlogo.com/logo/oracle-corporation-logo" alt="Oracle APEX" width="40" height="40"/>
   </a>
 
   <!-- Oracle Database -->
@@ -35,11 +35,6 @@
   <!-- SQL -->
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
-  </a>
-
-  <!-- PL/SQL -->
-  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/21/lnpls/plsql-overview.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="PL/SQL" width="40" height="40"/>
   </a>
 
   <!-- JavaScript -->
@@ -78,10 +73,3 @@
   </a>
 
 </p>
-
-<!-- GitHub Stats Section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajid004&show_icons=true&locale=en&layout=compact" alt="sajid004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid004&show_icons=true&locale=en" alt="sajid004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid004&" alt="sajid004" /></p>
